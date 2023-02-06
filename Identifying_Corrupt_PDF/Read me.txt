@@ -1,0 +1,6 @@
+Identifying corrupt pdfs
+--------------------------
+
+*) The purpose of this piece of code is to identify all corrupted pdfs from a folder using 'vb.net' code.
+
+*) Mandatory package: Syncfusion.EJ2.PdfViewer.AspNet.Core.OSX
